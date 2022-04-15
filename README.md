@@ -54,7 +54,7 @@ Things included in this starter app;
 Create React App with the template
 
 ```shell
-npm create react-app --template cra-template-rfs my-app
+npx create-react-app my-app --template react-first-strike
 ```
 
 In order to run this application, you have to create firebase app on firebase console and add credentials to **.env** file like in the **.env.example** file.
