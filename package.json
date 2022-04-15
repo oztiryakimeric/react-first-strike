@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-react-first-strike",
+  "version": "1.2.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+		"react-boilerplate",
+		"react-start-code"
+  ],
+  "description": "React first strike template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oztiryakimeric/react-first-strike.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
