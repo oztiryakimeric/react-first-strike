@@ -5,7 +5,7 @@ Pre-configured and ready to use CRA template. To save time in setting common thi
 
 - **Check the example app:** [Demonstrating the features](https://react-first-strike.web.app)
 
-- **Browse in VS Code:** [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/)
+- **Browse in VS Code:** [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://github1s.com/oztiryakimeric/react-first-strike)
 
 ## Overview
 Things included in this starter app;
